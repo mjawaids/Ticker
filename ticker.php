@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Watts calculator
-Plugin URI: http://www.ibexofts.tk/product/watts-calculator/
+Plugin URI: http://www-ibexoft.rhcloud.com
 Description: Calculates watts consumed based on watts installed.
 Version: 0.1
 Author: Muhammad Jawaid Shamshad
